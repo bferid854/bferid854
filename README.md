@@ -31,4 +31,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bferid854&show_icons=true&theme=dark&locale=en" alt="bferid854" /></p>
 
-![snake gif](https://github.com/bferid854/bferid854/blob/output/github-contribution-grid-snake.gif)
