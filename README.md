@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/faridbabayev854" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faridbabayev854" height="30" width="40" /></a>
 <a href="https://kaggle.com/bferid854" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="bferid854" height="30" width="40" /></a>
-<a href="https://instagram.com/@fariiiiiid_baba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@fariiiiiid_baba" height="30" width="40" /></a>
+<a href="https://instagram.com/fariiiiiid_baba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@fariiiiiid_baba" height="30" width="40" /></a>
 <a href="https://medium.com/@bferid722" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bferid722" height="30" width="40" /></a>
 <a href="https://discord.gg/bferid854" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="bferid854" height="30" width="40" /></a>
 </p>
