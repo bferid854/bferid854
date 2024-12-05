@@ -2,30 +2,23 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */6 * * *"  # Her 6 saatte bir çalışır
+    - cron: "0 */6 * * *"  # Her 6 saatte bir çalıştır
   workflow_dispatch:
 
 jobs:
   build:
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-latest
 
     steps:
       # Depoyu checkout et
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
 
       # Yılan grafiğini oluştur
-      - uses: Platane/snk@master
+      - name: Generate Snake Animation
+        uses: Platane/snk@v2.0.0
         with:
-          github_user_name: bferid854
+          github_user_name: bferid854  # Kullanıcı adınızı buraya yazın
           outputs: dist
 
       # Çıktıları kontrol et
       - run: ls dist
-
-      # Değişiklikleri it
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master
-          force: true
